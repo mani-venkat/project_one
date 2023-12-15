@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "TestDummy",
+      "location": "some desert",
+      "email": "blahblah@blahblah.com",
+      "bloodGroup": "d+",
+      "id": 1
+    },
+    {
+      "name": "TestDummy",
+      "location": "some desert",
+      "email": "blahblah@blahblah.com",
+      "bloodGroup": "d+",
+      "id": 2
+    },
+    {
+      "name": "TestDummy",
+      "location": "some desert",
+      "email": "blahblah@blahblah.com",
+      "bloodGroup": "d+",
+      "id": 3
+    }
+  ]
+}
